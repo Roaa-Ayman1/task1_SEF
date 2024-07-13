@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "fname": "Roaa",
+    "lname": "Ayman",
+    "city": "Qalubia",
+    "age": 20
+  },
+  {
+    "id": "2",
+    "fname": "Rahaf",
+    "lname": "Nassar",
+    "city": "Qalubia",
+    "age": 20
+  },
+  { "id": "4", "fname": "Radwa", "lname": "Ayman", "city": "Cairo", "age": 21 },
+  { "id": "5", "fname": "Rana", "lname": "Waheed", "city": "Cairo", "age": 22 }
+]
